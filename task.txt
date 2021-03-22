@@ -1,0 +1,4 @@
+name:gopikrishna
+department:csbs
+emailid:boddugopi916@gmail.com
+city:guntur
